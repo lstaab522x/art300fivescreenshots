@@ -1,0 +1,129 @@
+body{ background-color: cadetblue;
+
+}
+.content{
+    background-color:orangered;
+    display: grid;
+
+    grid-template-columns: 1fr;
+    margin: 10px;
+    grid-gap: 10px;
+}
+.whatstrending{background-color: hotpink;
+height:250px ;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 10px;
+padding: 10px;
+}
+.elimanning{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.probowl{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.post{ 
+    background-color: grey;
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+    height: 250px;
+    width: 1fr 1fr 1fr 1fr;
+
+
+}
+.photo{background-color: maroon;}
+.text{background-color: mediumturquoise;}
+
+.header{ 
+    background-color: silver;
+    width: 1fr;
+    height: 150px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 20px;
+}
+.ad{background-color: black;
+height: 65px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 20px;
+}
+.ad0{background-color: black;
+    height: 65px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    }
+.ad1{background-color: black;
+    height: 65px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    }
+.ad2{background-color: black;
+    height: 65px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    }
+.homepage{background-color: darkgoldenrod;
+    height: 95vh;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+.bigbox{background-color: blue;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 6;
+}
+.smalbox0{background-color: blueviolet;
+        grid-row-start: 1;
+        grid-row-end: 4;
+
+}
+.smalbox1{background-color: chartreuse;
+    grid-column-start: 3;
+    grid-row-start: 4;
+    grid-row-end: 6;
+    
+
+}
+
+.score{background-color: chocolate;
+
+}
+.gametheory{background-color: crimson;
+
+}
+.bigad0{background-color:green;
+        height: 50vw;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 20px;
+        
+}
+.bigad1{background-color:green;
+    height: 50vw;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    
+}
+.bigad2{background-color:green;
+    height: 50vw;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    
+}
