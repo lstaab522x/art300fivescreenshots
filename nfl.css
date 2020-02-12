@@ -4,8 +4,8 @@ body{ background-color: cadetblue;
 .content{
     background-color:orangered;
     display: grid;
-
     grid-template-columns: 1fr;
+    
     margin: 10px;
     grid-gap: 10px;
 }
@@ -30,6 +30,48 @@ padding: 10px;
     grid-gap: 10px;
     padding: 10px;
 }
+.superbowl{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.seniorbowl{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.featured{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.analysis{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.throwback{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.clubs{background-color: hotpink;
+    height:250px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
 .post{ 
     background-color: grey;
     display: grid;
@@ -39,7 +81,11 @@ padding: 10px;
 
 
 }
-.photo{background-color: maroon;}
+
+.photo{background-color: maroon;
+}
+
+
 .text{background-color: mediumturquoise;}
 
 .header{ 
