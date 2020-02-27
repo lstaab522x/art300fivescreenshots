@@ -1,0 +1,35 @@
+body{background-color: brown;}
+
+.header{background-color: royalblue;
+width: 100vw;}
+
+.story{background-color: cadetblue;
+display: grid;
+grid-template-rows: 2fr 1fr;
+
+}
+
+.storycluster{background-color: chartreuse;
+    height: 500px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-gap: 10px;
+}
+
+.photo{background-color: palegreen;}
+
+.text{background-color: orchid;}
+
+.ministory{background-color: seagreen;}
+
+.miniphoto{background-color: palegoldenrod;}
+
+.minitext{background-color: palegoldenrod;}
+
+.sidebar{background-color:red;}
+
+.content{background-color: plum;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+
+}
